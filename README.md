@@ -43,11 +43,6 @@ La app sigue la arquitectura **MVVM + Clean Architecture**:
 
 ---
 
-## 🔐 Seguridad
-- Autenticación biométrica para acceder a la sección de favoritos.
-
----
-
 ## ✅ Requisitos
 
 - Android Studio Giraffe o superior.
