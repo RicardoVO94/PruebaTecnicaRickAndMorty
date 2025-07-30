@@ -19,6 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AndroidAppTemplate"
+rootProject.name = "RickAndMorty"
 include(":app")
- 
+include(":data")
+include(":domain")
